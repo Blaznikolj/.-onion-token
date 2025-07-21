@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
-  <g fill="#000000">
-    <path d="M64 8C54 24 44 36 32 44C20 52 16 64 16 76C16 96 32 112 64 112C96 112 112 96 112 76C112 64 108 52 96 44C84 36 74 24 64 8Z"/>
-    <text x="50%" y="120" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" font-weight="bold">.ONION</text>
-  </g>
-</svg>
+
