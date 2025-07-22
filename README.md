@@ -32,7 +32,7 @@
 
 - 📬 **Contact email**: blaznikolj07@gmail.com  
 - 🧑‍💻 GitHub: [github.com/blaznikolj](https://github.com/blaznikolj)  
-- 🟣 Telegram  @Onion_Token_i
+- 🟣 Telegram  https://t.me/OnionTokenProject
 - 🐦 Twitter https://x.com/infoonionntoken?s=21
 
 ---
