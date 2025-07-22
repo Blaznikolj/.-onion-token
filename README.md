@@ -32,8 +32,8 @@
 
 - 📬 **Contact email**: blaznikolj07@gmail.com  
 - 🧑‍💻 GitHub: [github.com/blaznikolj](https://github.com/blaznikolj)  
-- 🟣 Telegram (coming soon)  
-- 🐦 Twitter (coming soon)
+- 🟣 Telegram  @Onion_Token_i
+- 🐦 Twitter https://x.com/infoonionntoken?s=21
 
 ---
 
