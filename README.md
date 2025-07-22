@@ -30,7 +30,7 @@
 
 ## 🔗 Social Links
 
-- 📬 **Contact email**: blaznikolj07@gmail.com  
+- 📬 **Contact email**: info@oniontoken.world 
 - 🧑‍💻 GitHub: [github.com/blaznikolj](https://github.com/blaznikolj)  
 - 🟣 Telegram  https://t.me/OnionTokenProject
 - 🐦 Twitter https://x.com/infoonionntoken?s=21
